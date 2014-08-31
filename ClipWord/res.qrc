@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>index.html</file>
+        <file>dictionary-icon.png</file>
+        <file>quit.png</file>
+        <file>script.js</file>
+        <file>jquery-1.11.1.min.js</file>
+    </qresource>
+</RCC>
